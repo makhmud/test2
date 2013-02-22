@@ -1,0 +1,17 @@
+body{
+	font-family: Tahoma;
+}
+.header div{
+	display: inline-block;
+}
+div.title{
+	margin-right: 5px;
+}
+table{
+	width: 100%;
+	margin-top: 10px;
+	border-collapse: collapse;
+}
+table td, table th{
+	border: 1px solid #000;
+}
